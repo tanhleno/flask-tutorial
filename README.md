@@ -15,6 +15,14 @@ Folow the steps below to install:
 to run the application.
 - Install the _requirements.txt_ with the command: `pip install -m requirements.txt`.
 
+## How to run
+
+### Development
+
+Folow these steps to run the application in development mode:
+- Set the enviroment variables `FLASK_APP=flaskr` and `FLASK_ENV=development`.
+- Run the command `flask run`.
+
 ## License
 
 This project use the MIT 
