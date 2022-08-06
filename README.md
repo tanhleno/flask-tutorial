@@ -19,9 +19,7 @@ to run the application.
 
 ### Development
 
-Folow these steps to run the application in development mode:
-- Set the enviroment variables `FLASK_APP=flaskr` and `FLASK_ENV=development`.
-- Run the command `flask run`.
+Just use the command `flask --app flaskr --debug run` to run the application in debug mode.
 
 ## License
 
